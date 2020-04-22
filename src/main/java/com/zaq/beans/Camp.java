@@ -4,7 +4,7 @@ public class Camp {
 	
 	private Integer cid;
 	private String cname;
-	
+	//sda
 	
 	public Integer getCid() {
 		return cid;
