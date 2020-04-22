@@ -4,6 +4,8 @@ public class Camp {
 	
 	private Integer cid;
 	private String cname;
+	
+	
 	public Integer getCid() {
 		return cid;
 	}
